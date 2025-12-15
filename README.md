@@ -1,7 +1,7 @@
 #### 1. Tool Information
 
 * **Tool Name:** InSA
-* **Repository / URL:** InSA.zip
+* **Repository / URL:** [InSA](https://github.com/TitanCAProject/InSA)
 
 #### 2. Authors and Contact
 
